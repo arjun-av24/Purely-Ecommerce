@@ -174,7 +174,6 @@ Replace `YOUR_USERNAME` and `YOUR_PASSWORD` with your actual email service crede
 
 2. Run the other services. Make sure all the services are up and running in the [Eureka Dashboard](http://localhost:8761).
 
-<img width="960" alt="Screenshot 2025-01-01 182328" src="https://github.com/user-attachments/assets/edfd6abf-f808-4f03-a96a-2e950a69b958" />
 
 ## 📍Step 5: Run the frontend
 
